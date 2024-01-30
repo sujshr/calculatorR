@@ -3,7 +3,7 @@ import React from "react";
 export default function OperationButton(props) {
   return (
     <button
-      className={props.className}
+      className={`${props.className} operator`}
       onClick={() => {
         props.dispatch({
           type: "CHOOSE_OPERATION",
