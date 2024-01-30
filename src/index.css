@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Pattaya&display=swap");
+body {
+  background-color: #4a4a4a;
+  font-family: poppins;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
